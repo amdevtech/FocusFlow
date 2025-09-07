@@ -13,7 +13,9 @@ FocusFlow helps you create and organize tasks, move them through a Kanban board 
 ## Screenshot
 
 ![FocusFlow screenshot](assets/screenshot01.png)
+
 ![FocusFlow screenshot](assets/screenshot02.png)
+
 ![FocusFlow screenshot](assets/screenshot03.png)
 
 ---
@@ -65,18 +67,17 @@ FocusFlow helps you create and organize tasks, move them through a Kanban board 
 - **MySQL integration** — provide an option to sync/save tasks and sessions to a remote MySQL database (server-side endpoint + API). This will allow multi-device syncing and long-term storage.
 - **Projects & Clients** — add the ability to group tasks under projects and attach client information to projects.
 - **Detailed Reports** — generate exportable reports (CSV / PDF) showing time spent per task, project summaries, and session statistics.
-- Optional: authentication, multi-user support, and server-side backups.
 
 ---
 
-## File structure (suggested)
+## File structure
 
 ```
 / (repo root)
 ├─ index.html        # single-file app (HTML + CSS + JS)
 ├─ assets/
 │  └─ screenshot.png
-├─ data/             # optional: sample JSON backups
+├─ data/             # sample JSON backups
 └─ README.md
 ```
 
