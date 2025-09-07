@@ -12,9 +12,9 @@ FocusFlow helps you create and organize tasks, move them through a Kanban board 
 
 ## Screenshot
 
-> Replace the image below with your app screenshot (for GitHub put the file in `/assets` or the repository root).
-
 ![FocusFlow screenshot](assets/screenshot01.png)
+![FocusFlow screenshot](assets/screenshot02.png)
+![FocusFlow screenshot](assets/screenshot03.png)
 
 ---
 
@@ -85,12 +85,5 @@ FocusFlow helps you create and organize tasks, move them through a Kanban board 
 ## Author
 **Ahmed Hafez** — FocusFlow
 
----
 
-## License
-Choose an appropriate license (e.g., MIT). Add the license file `LICENSE` to the repo.
-
----
-
-> _Want me to generate a ready-to-use `index.html` template (single-file) that implements the features above, or export this README as `README.md` in the repository?_
 
