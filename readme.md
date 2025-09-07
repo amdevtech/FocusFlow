@@ -10,6 +10,11 @@ FocusFlow helps you create and organize tasks, move them through a Kanban board 
 
 ---
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://amdevtech.github.io/FocusFlow/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+---
+
 ## Screenshot
 
 ![FocusFlow screenshot](assets/screenshot01.png)
