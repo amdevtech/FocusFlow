@@ -2,16 +2,14 @@
 
 **FocusFlow** — A compact productivity web app that combines a **Task Manager**, **Kanban Board**, and the **Pomodoro** technique in a single HTML file (with its embedded JavaScript).
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://amdevtech.github.io/FocusFlow/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ---
 
 ## Summary
 
 FocusFlow helps you create and organize tasks, move them through a Kanban board (Not Started → In Progress → Finished), and run Pomodoro focus sessions per task. The app stores state locally (browser) and allows import/export to JSON so you can backup or restore your data.
-
----
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://amdevtech.github.io/FocusFlow/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
