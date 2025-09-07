@@ -14,7 +14,7 @@ FocusFlow helps you create and organize tasks, move them through a Kanban board 
 
 > Replace the image below with your app screenshot (for GitHub put the file in `/assets` or the repository root).
 
-![FocusFlow screenshot](assets/screenshot.png)
+![FocusFlow screenshot](assets/screenshot01.png)
 
 ---
 
